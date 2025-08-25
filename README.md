@@ -1,4 +1,4 @@
-### Airflow-Primer: A Template for Speedy Prototyping Airflow Workflow
+# Airflow-Primer: A Template for Speedy Prototyping Airflow Workflow
 
 
 Overview
