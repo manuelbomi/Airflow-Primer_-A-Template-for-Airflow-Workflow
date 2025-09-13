@@ -68,7 +68,12 @@ On the repository, the workflow is available here: https://github.com/manuelbomi
 
 ---
 
-#### 
+#### Here is the designed workflow
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3d2aff65-a9e0-433b-9e54-570a3fb934b7" />
+<img width="1346" height="507" alt="Image" src="https://github.com/user-attachments/assets/e0eefe4a-1b1a-44c4-b564-1b78e0e7580b" />
+<img width="1359" height="508" alt="Image" src="https://github.com/user-attachments/assets/3fa054e6-10d7-402b-b253-8c7587a64ada" />
+
+---
 
 
 
