@@ -25,12 +25,31 @@
 
 ---
 
-####   Type code . to open the Airflow folder on VSCode
+####   Type <ins>code .</ins> to open the Airflow folder on VSCode
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/13300702-bf5f-4ced-b4ad-0e85e6a6a5eb" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/61e1a6c2-07a2-4f87-9f18-59795b66621b" />
 
 ---
+
+#### On the terminal of your project type <ins>astro dev</ins> start to start the project
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1b074375-23e5-44f4-bc7a-a9aab7339c2b" />
+
+---
+
+#### Your astro project can now be accesses via localhost 8080
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3f6ea135-46be-45b8-90c7-5bfff6f144e6" />
+<img width="1347" height="507" alt="Image" src="https://github.com/user-attachments/assets/04e4c4b4-d301-4689-abda-d9cdab771767" />
+
+---
+
+
+#### Create a workflow to get some data from an API, write it to a file and read it from the file
+On the repository, the workflow is available here: 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/19467e11-d623-4373-8991-b45c943e9116" />
+
+---
+
 
 
 
