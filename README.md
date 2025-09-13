@@ -75,6 +75,16 @@ On the repository, the workflow is available here: https://github.com/manuelbomi
 
 ---
 
+#### Click to trigger the DAG
+
+<img width="1282" height="497" alt="Image" src="https://github.com/user-attachments/assets/5d61a03f-fa4b-4790-a149-a7aeefc8c684" />
+
+---
+
+#### Successful DAG run
+<img width="1333" height="695" alt="Image" src="https://github.com/user-attachments/assets/a2db8bac-a157-4358-b834-14b857d8ccbe" />
+<img width="1338" height="694" alt="Image" src="https://github.com/user-attachments/assets/e336e543-edb4-4cb3-a795-5fe932d328e7" />
+
 
 
 
