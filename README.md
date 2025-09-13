@@ -45,10 +45,31 @@
 
 
 #### Create a workflow to get some data from an API, write it to a file and read it from the file
-On the repository, the workflow is available here: 
+On the repository, the workflow is available here: https://github.com/manuelbomi/An-Airflow-Primer-for-Airflow-Pipelines/blob/main/dags/some_activity.py
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/19467e11-d623-4373-8991-b45c943e9116" />
 
 ---
+
+#### Create variable from user interface. Go to Admin, Variables
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/135586b3-7c57-45e9-9a2a-3d1f7eabe568" />
+
+---
+
+#### Click "Add Variables"
+<img width="1297" height="503" alt="Image" src="https://github.com/user-attachments/assets/aa5f8491-8a00-4dce-91c7-c2da4e0447fe" />
+
+---
+
+####  Input key and val and click save
+
+<img width="1313" height="494" alt="Image" src="https://github.com/user-attachments/assets/9bb67090-a4f0-48d4-bc43-182c8701ee3a" />
+<img width="1315" height="493" alt="Image" src="https://github.com/user-attachments/assets/ab0a7525-2869-4894-826f-4a384c341fb5" />
+
+---
+
+#### 
+
 
 
 
