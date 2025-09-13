@@ -19,6 +19,23 @@
 
 ---
 
+#### Type <ins>dir</ins> to see that all Airflow reqired folders av been generated
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b7326170-b6ef-4ba4-ac9d-02e639351fcc" />
+
+---
+
+####   Type code . to open the Airflow folder on VSCode
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/13300702-bf5f-4ced-b4ad-0e85e6a6a5eb" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/61e1a6c2-07a2-4f87-9f18-59795b66621b" />
+
+---
+
+
+
+
+
 
 
 
