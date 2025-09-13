@@ -3,7 +3,7 @@
 
 #### In this discourse, we present infographs that highlights how Airflow can be easily and speedliy installed on a Windows based computer. We also show how users can start working with Airflow by creating a file with Airflow DAGs that could be used to read some data from some API, store the data in a file, and read the data from that file. 
 
-#### Install Airflow Astro CLI  on WIndows OS (using Powershell) by typing <u>winget install -e --id Astronomer.Astro</u>
+#### Install Airflow Astro CLI  on WIndows OS (using Powershell) by typing <ins>winget install -e --id Astronomer.Astro</ins>
 
 
 
